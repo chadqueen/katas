@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater", "TrappingRainWater\TrappingRainWater.csproj", "{9EAC1F7C-C187-427E-9223-B28CDC0B5560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater.Tests", "TrappingRainWater.Tests\TrappingRainWater.Tests.csproj", "{E8377D34-910D-4BD4-98C2-EC5C84462AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAC1F7C-C187-427E-9223-B28CDC0B5560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAC1F7C-C187-427E-9223-B28CDC0B5560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAC1F7C-C187-427E-9223-B28CDC0B5560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAC1F7C-C187-427E-9223-B28CDC0B5560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8377D34-910D-4BD4-98C2-EC5C84462AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8377D34-910D-4BD4-98C2-EC5C84462AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8377D34-910D-4BD4-98C2-EC5C84462AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8377D34-910D-4BD4-98C2-EC5C84462AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D14BDC7-C8E2-4D16-8D3B-324A70AA937A}
+	EndGlobalSection
+EndGlobal
