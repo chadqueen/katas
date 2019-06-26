@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideTwoIntegers", "DivideTwoIntegers\DivideTwoIntegers.csproj", "{457A7423-95BC-4D90-834D-F1A3B49EFFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideTwoIntegers.Tests", "DivideTwoIntegers.Tests\DivideTwoIntegers.Tests.csproj", "{F6A84D7E-FE8F-4F47-B581-B64799F2CC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457A7423-95BC-4D90-834D-F1A3B49EFFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457A7423-95BC-4D90-834D-F1A3B49EFFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457A7423-95BC-4D90-834D-F1A3B49EFFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457A7423-95BC-4D90-834D-F1A3B49EFFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A84D7E-FE8F-4F47-B581-B64799F2CC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A84D7E-FE8F-4F47-B581-B64799F2CC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A84D7E-FE8F-4F47-B581-B64799F2CC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A84D7E-FE8F-4F47-B581-B64799F2CC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8423BAD4-56AE-4631-9827-36B71822313D}
+	EndGlobalSection
+EndGlobal
